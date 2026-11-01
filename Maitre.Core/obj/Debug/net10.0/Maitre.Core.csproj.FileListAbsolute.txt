@@ -1,0 +1,12 @@
+C:\Users\99477\Desktop\Maitre\Maitre.Core\bin\Debug\net10.0\Maitre.Core.deps.json
+C:\Users\99477\Desktop\Maitre\Maitre.Core\bin\Debug\net10.0\Maitre.Core.dll
+C:\Users\99477\Desktop\Maitre\Maitre.Core\bin\Debug\net10.0\Maitre.Core.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.Core.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.Core.AssemblyInfo.cs
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.Core.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.Core.dll
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\refint\Maitre.Core.dll
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.Core.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\ref\Maitre.Core.dll
+C:\Users\99477\Desktop\Maitre\Maitre.Core\obj\Debug\net10.0\Maitre.C.6AE206F9.Up2Date

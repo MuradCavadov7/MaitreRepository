@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Maitre.BL/Maitre.BL.csproj" />
+  <Project Path="../Maitre.Core/Maitre.Core.csproj" />
+  <Project Path="../Maitre.DAL/Maitre.DAL.csproj" />
+  <Project Path="Maitre.csproj" />
+</Solution>

@@ -1,0 +1,17 @@
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.BL.deps.json
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.BL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.BL.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.Core.dll
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.DAL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.DAL.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.BL\bin\Debug\net10.0\Maitre.Core.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.csproj.AssemblyReference.cache
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.AssemblyInfo.cs
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.csproj.Up2Date
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\refint\Maitre.BL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\Maitre.BL.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.BL\obj\Debug\net10.0\ref\Maitre.BL.dll

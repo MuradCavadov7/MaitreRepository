@@ -1,0 +1,17 @@
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\bin\Debug\net10.0\Maitre.DAL.deps.json
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\bin\Debug\net10.0\Maitre.DAL.runtimeconfig.json
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\bin\Debug\net10.0\Maitre.DAL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\bin\Debug\net10.0\Maitre.DAL.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\bin\Debug\net10.0\Maitre.Core.dll
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\bin\Debug\net10.0\Maitre.Core.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.csproj.AssemblyReference.cache
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.AssemblyInfo.cs
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.csproj.Up2Date
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\refint\Maitre.DAL.dll
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.pdb
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\Maitre.DAL.genruntimeconfig.cache
+C:\Users\99477\Desktop\Maitre\Maitre.DAL\obj\Debug\net10.0\ref\Maitre.DAL.dll
